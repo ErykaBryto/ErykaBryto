@@ -1,6 +1,5 @@
 # Hi I'm Érika Brito 👩🏼‍💻
 
-<hr>
 
 ## About me
 
