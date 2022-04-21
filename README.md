@@ -4,7 +4,7 @@
 
 ## About me
 
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Graduanda em Engenharia Elétrica pelo Instituto Federal de Educação, Ciências e Tecnologia da Bahia (IFBA) - Campus Vitória da Conquista; Vice-presidente do Ramo Estudantil IEEE; Diretora de Gestão de Pessoas na Empresa Junior de Engenharia Elétrica (EJEEL); Membro efetiva no Grupo de Produção Acadêmica (GPA); Pesquisadora no Grupo de Inovação e Pesquisa em Automação e Robótica (GIPAR).
 
 ## ⚙️ Main Skills:
 
@@ -42,4 +42,9 @@
 
 ## 📱Érika Brito on social media:
 
-<alysis Panel ><br> ![Érika GitHub stats](https://github-readme-stats.vercel.app/api?username=ErykaBryto&show_icons=true&theme=radical) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ErykaBryto&layout=compact)
+
+<div align="center">
+  <a href="https://github.com/ErykaBryto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErykaBryto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErykaBryto&layout=compact&langs_count=7&theme=dracula"/>
+</div>
