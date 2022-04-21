@@ -42,4 +42,4 @@
 
 ## 📱Érika Brito on social media:
 
-<alysis Panel ><br> ![Giovane GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovane-F-Moreira&show_icons=true&theme=radical) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovane-F-Moreira&layout=compact)](
+<alysis Panel ><br> ![Érika GitHub stats](https://github-readme-stats.vercel.app/api?username=ErykaBryto&show_icons=true&theme=radical) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ErykaBryto&layout=compact)](
