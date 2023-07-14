@@ -55,7 +55,7 @@ I'm a Data Analyst graduated by Google, where I had the opportunity to learn pro
  </div>
  
  <div align="center">
-<br>Thanks for visiting
+<br>Thanks for visiting! 
     <p align="centre"><b>Visitors Count&nbsp;:eyes:</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ErykaBryto}/count.svg" /></p> 
 <br></div>
