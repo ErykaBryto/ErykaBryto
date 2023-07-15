@@ -12,7 +12,7 @@
 ---
 
 <div align="center">  
-I'm a Data Analyst graduated by Google, where I had the opportunity to learn programming. I'm also a member of the Institute of Electrical and Electronics Engineers - IEEE, a researcher in the Robotics and Automation Research and Innovation Group - GIPAR, and the Academic Production Group - GPA. I'm currently pursuing a degree in Electrical Engineering at the Federal Institute of Science and Technology of Bahia - IFBA. Currently, I'm studying Machine Learning, Deep Learning, Reinforcement Learning, and SQL to become a Data Scientist or Data Engineer in the future.
+I'm a Data Analyst graduated by Google, where I had the opportunity to learn programming. I'm also a member of the Institute of Electrical and Electronics Engineers - IEEE, a researcher in the Robotics and Automation Research and Innovation Group - GIPAR, and the Academic Production Group - GPA. Furthermore, I'm currently pursuing a degree in Electrical Engineering at the Federal Institute of Science and Technology of Bahia - IFBA. Currently, I'm studying Machine Learning, Deep Learning, Reinforcement Learning, and SQL to become a Data Scientist or Data Engineer in the future.
 </div>
 
 
