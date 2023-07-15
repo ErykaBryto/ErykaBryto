@@ -2,9 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Érika+Brito;I'm+24+years+old;I'm+Data+Analyst;I'm+majoring+in+Electrical+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+
 <div id="user-content-toc">
   <ul>
-    <summary><h2 style="display: inline-block;">About me:</h2></summary>
+    <summary><h2 style="display: inline-block;"> :woman_technologist: About me:</h2></summary>
   </ul>
 </div>
 
